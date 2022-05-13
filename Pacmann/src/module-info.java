@@ -1,3 +1,3 @@
-module Coupons {
+module Pacmann {
 	requires java.desktop;
 }
